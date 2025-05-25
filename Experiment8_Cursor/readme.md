@@ -1,5 +1,4 @@
 # Experiment 8: PL/SQL Cursor Programs
-
 ## AIM
 To write and execute PL/SQL programs using cursors and exception handling to manage runtime errors effectively and display appropriate messages.
 
@@ -159,4 +158,5 @@ The program should update employee salaries and display a message, or it should 
 
 ## RESULT
 Thus, the program successfully executed and displayed employee details using a cursor. 
+
 
